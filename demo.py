@@ -1,1 +1,1 @@
-print('mery');
+print('mery') 
